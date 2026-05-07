@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T12:10:35.225679+00:00",
+  "updated_at": "2026-05-07T12:33:54.567537+00:00",
   "airport_icao": "SBCA",
   "airport_name": "Cascavel",
   "source": "AviationStack",
@@ -73,7 +73,7 @@
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
       "scheduled": "2026-05-07T10:00:00+00:00",
-      "time_iso": "2026-05-07T10:46:00+00:00",
+      "time_iso": "2026-05-07T10:07:00+00:00",
       "status": "em voo"
     },
     {
